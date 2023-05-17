@@ -10,6 +10,10 @@ public class ArrayConcept {
 		// lower bound index = 0
 		// Upper bound index = size of array - 1 = 5-1 = 4
 		// Storing an elements in an array
+		
+		
+		
+		
 		marks[1] = 70;
 		marks[2] = 70;
 		marks[4] = 90;
