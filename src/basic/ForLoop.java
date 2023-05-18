@@ -23,6 +23,12 @@ public class ForLoop {
 		for (int i = 10; i >= 0; i--) {
 			System.out.println(i);
 		}
+		
+		// Reverse for loop
+		System.out.println("Reverse for loop");
+		for (int i = 30; i >= 0; i--) {
+			System.out.println(i);
+		}
 
 		// Partial for loop:
 		System.out.println("Partial for loop");
