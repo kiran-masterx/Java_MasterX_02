@@ -8,6 +8,11 @@ public class ForLoop {
 			System.out.println(i);
 		}
 		
+		// Forward for loop
+		for (int i = 0; i <= 100; i++) {
+			System.out.println(i);
+		}
+		
 		// Reverse for loop
 		System.out.println("Reverse for loop");
 		for (int i = 10; i >= 0; i--) {
